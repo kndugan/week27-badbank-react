@@ -6,11 +6,11 @@ In this project, I've created a MERN Banking Application. Users can create accou
 
 The starter code was provided by MIT xPro.
 
-## 1. Installation Guidelines
+## Installation Guidelines
 
 In the project directory,
 
-#### Install Dependencies
+#### 1. Install Dependencies
 
 To install all of the app dependencies, including Node JS, MongoDB, Express, CORS, and LowDB, run:
 
