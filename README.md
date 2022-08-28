@@ -17,6 +17,9 @@ To install all of the app dependencies, including Node JS, MongoDB, Express, COR
 
 ### `npm install`
 
+<img width="1269" alt="1 npm install" src="https://user-images.githubusercontent.com/94763837/187096315-41a53fb4-3117-403f-842b-b9f3b500b805.png">
+
+
 #### 2. Run the application 
 
 In terminal, run the following command to launch the server and application: 
