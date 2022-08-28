@@ -2,19 +2,21 @@
 
 ## Description
 
-In this project, I've created a MERN Banking Application with [React](https://github.com/facebook/create-react-app), Express, and MongoDB. Users can create accounts, make deposits, withdrawls and check balance. The
+In this project, I've created a MERN Banking Application with [React](https://github.com/facebook/create-react-app), Express, and MongoDB. Users can create accounts, make deposits, withdrawls and check balance.
 
 The starter code was provided by MIT xPro.
 
-## How to Run
+## Installation Guidelines
 
-In the project directory, you can run:
+In the project directory,
+
+#### Install Dependencies
+
+To install all of the app dependencies, including Node JS, MongoDB, Express, CORS, and LowDB, run:
 
 ### `npm install`
 
-This will install all of the dependencies including Node JS, MongoDB, Express, CORS, and LowDB.
-
-## Begin Running Docker
+#### Begin Running Docker
 
 ### Run `docker run -p 27017:27017 --name badbank -d mongo`
 
@@ -24,9 +26,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.
 
-## Roadmap of Future Improvements
+## Technology Used
 
-Future improvements will include adding authentication and authorization with Firebase.
+MongoDB
+Express
+React App
+NodeJS
+CORS
+LowDB
+
+## Features
+
+Current features include the ability to create account, make deposits, withdrawals, and check balance.
+
+Future feature improvements will include adding roles for different users, such as bank employee vs customer with Firebase authentication and authorization..
 
 ## Questions or Comments?
 
