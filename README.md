@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I've created a MERN Banking Application with [React](https://github.com/facebook/create-react-app), Express, and MongoDB. Users can create accounts, make deposits, withdrawls and check balance.
+In this project, I've created a MERN Banking Application. Users can create accounts, make deposits, withdrawls, and check balances.
 
 The starter code was provided by MIT xPro.
 
@@ -34,18 +34,18 @@ The page will reload when you make changes.
 
 ## Technology Used
 
-MongoDB
-Express
-React App
-NodeJS
-CORS
-LowDB
+[MongoDB](https://www.mongodb.com/)
+[Express](http://expressjs.com/)
+[React](https://github.com/facebook/create-react-app)
+[NodeJS](https://nodejs.org/en/)
+[CORS](https://www.npmjs.com/package/cors)
+[LowDB](https://www.npmjs.com/package/lowdb)
 
 ## Features
 
 Current features include the ability to create account, make deposits, withdrawals, and check balance.
 
-Future feature improvements will include adding roles for different users, such as bank employee vs customer with Firebase authentication and authorization..
+Future feature improvements will include adding roles for different users, such as bank employee vs customer with Firebase authentication and authorization. Additional security will be added that only the logged in user can see their own account information. 
 
 ## Questions or Comments?
 
