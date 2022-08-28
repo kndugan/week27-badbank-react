@@ -3,12 +3,12 @@
 ## Description
 
 In this project, I've created a MERN Banking Application. Users can create accounts, make deposits, withdrawls, and check balances. 
-<img width="1270" alt="3 connection a success" src="https://user-images.githubusercontent.com/94763837/187096408-97ec3c4c-eed6-425a-85f6-716ac5450884.png">
+![4 localhost 3000](https://user-images.githubusercontent.com/94763837/187096492-2d49d3d2-a03c-4494-a7d8-c47b75ddea28.png)
 
-All user data will be stored in [MongoDB](https://www.mongodb.com/) via [NodeJS](https://nodejs.org/en/) and [Express](http://expressjs.com/). The front end was created with [React](https://github.com/facebook/create-react-app). 
+All user data will be created and stored in a database within the backend of the application with [MongoDB](https://www.mongodb.com/). The front end was created with [React](https://github.com/facebook/create-react-app).  The frontend and backend are connected via [NodeJS](https://nodejs.org/en/) and [Express](http://expressjs.com/). 
 
 All user data can be viewed under the AllData tab in the navigation bar. 
-X
+![5 all data](https://user-images.githubusercontent.com/94763837/187096498-7ea2d552-e28f-4ccb-94bf-afbc34610343.png)
 
 The starter code was provided by MIT xPro.
 
@@ -34,8 +34,12 @@ In terminal, run the following command to launch the server and application:
 
 <img width="1267" alt="2 node indexjs" src="https://user-images.githubusercontent.com/94763837/187096402-7bf4a9a4-8c08-4b32-bbcf-f87c54ab53e2.png">
 
-Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+Once the app is launched you will receive a success message in terminal. 
 <img width="1270" alt="3 connection a success" src="https://user-images.githubusercontent.com/94763837/187096408-97ec3c4c-eed6-425a-85f6-716ac5450884.png">
+
+Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+![4 localhost 3000](https://user-images.githubusercontent.com/94763837/187096492-2d49d3d2-a03c-4494-a7d8-c47b75ddea28.png)
+
 
 
 ## Technology Used
