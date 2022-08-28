@@ -30,7 +30,7 @@ In terminal, run the following command to launch the server and application:
 
 ### `node index.js`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
 The page will reload when you make changes.
 
