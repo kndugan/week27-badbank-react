@@ -14,7 +14,7 @@ In the project directory, you can run:
 
 This will install all of the dependencies including Node JS, MongoDB, Express, CORS, and LowDB.
 
-### Begin Running Docker
+## Begin Running Docker
 
 ### Run `docker run -p 27017:27017 --name badbank -d mongo`
 
