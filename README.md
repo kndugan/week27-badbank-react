@@ -2,9 +2,10 @@
 
 ## Description
 
-In this project, I've created a MERN Banking Application. Users can create accounts, make deposits, withdrawls, and check balances.
+In this project, I've created a MERN Banking Application. Users can create accounts, make deposits, withdrawls, and check balances. All user data will be stored in [MongoDB](https://www.mongodb.com/) via [NodeJS](https://nodejs.org/en/) and [Express](http://expressjs.com/). The front end was created with [React](https://github.com/facebook/create-react-app). All user data can be viewed under the AllData tab in the navigation bar. 
 
 The starter code was provided by MIT xPro.
+
 
 ## Installation Guidelines
 
@@ -16,15 +17,7 @@ To install all of the app dependencies, including Node JS, MongoDB, Express, COR
 
 ### `npm install`
 
-#### 2. Begin Running Docker
-
-In terminal, run the following command:
-
-### `docker run -p 27017:27017 --name badbank -d mongo`
-
-Once Docker is running, check that it's working, open [http://localhost:27017](http://localhost:27017) to view in your browser. 
-
-#### 3. Run the application 
+#### 2. Run the application 
 
 In terminal, run the following command to launch the server and application: 
 
@@ -32,7 +25,6 @@ In terminal, run the following command to launch the server and application:
 
 Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
-The page will reload when you make changes.
 
 ## Technology Used
 
@@ -43,15 +35,18 @@ The page will reload when you make changes.
 [CORS](https://www.npmjs.com/package/cors)
 [LowDB](https://www.npmjs.com/package/lowdb)
 
+
 ## Features
 
 Current features include the ability to create account, make deposits, withdrawals, and check balance.
 
 Future feature improvements will include adding roles for different users, such as bank employee vs customer with Firebase authentication and authorization. Additional security will be added that only the logged in user can see their own account information. 
 
+
 ## Questions or Comments?
 
 Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](https://linkedin.com/in/kristinedugan).
+
 
 ## License Information
 
