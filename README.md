@@ -2,7 +2,13 @@
 
 ## Description
 
-In this project, I've created a MERN Banking Application. Users can create accounts, make deposits, withdrawls, and check balances. All user data will be stored in [MongoDB](https://www.mongodb.com/) via [NodeJS](https://nodejs.org/en/) and [Express](http://expressjs.com/). The front end was created with [React](https://github.com/facebook/create-react-app). All user data can be viewed under the AllData tab in the navigation bar. 
+In this project, I've created a MERN Banking Application. Users can create accounts, make deposits, withdrawls, and check balances. 
+<img width="1270" alt="3 connection a success" src="https://user-images.githubusercontent.com/94763837/187096408-97ec3c4c-eed6-425a-85f6-716ac5450884.png">
+
+All user data will be stored in [MongoDB](https://www.mongodb.com/) via [NodeJS](https://nodejs.org/en/) and [Express](http://expressjs.com/). The front end was created with [React](https://github.com/facebook/create-react-app). 
+
+All user data can be viewed under the AllData tab in the navigation bar. 
+X
 
 The starter code was provided by MIT xPro.
 
@@ -26,7 +32,10 @@ In terminal, run the following command to launch the server and application:
 
 ### `node index.js`
 
+<img width="1267" alt="2 node indexjs" src="https://user-images.githubusercontent.com/94763837/187096402-7bf4a9a4-8c08-4b32-bbcf-f87c54ab53e2.png">
+
 Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+<img width="1270" alt="3 connection a success" src="https://user-images.githubusercontent.com/94763837/187096408-97ec3c4c-eed6-425a-85f6-716ac5450884.png">
 
 
 ## Technology Used
