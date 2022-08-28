@@ -18,7 +18,13 @@ To install all of the app dependencies, including Node JS, MongoDB, Express, COR
 
 #### Begin Running Docker
 
-### Run `docker run -p 27017:27017 --name badbank -d mongo`
+In terminal, run the following command:
+
+### `docker run -p 27017:27017 --name badbank -d mongo`
+
+Once Docker is running, check that it's working by navigating to
+
+### [http://localhost:27017](http://localhost:27017)
 
 ### `node index.js`
 
