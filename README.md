@@ -6,7 +6,7 @@ In this project, I've created a MERN Banking Application. Users can create accou
 
 The starter code was provided by MIT xPro.
 
-## Installation Guidelines
+## 1. Installation Guidelines
 
 In the project directory,
 
@@ -16,15 +16,17 @@ To install all of the app dependencies, including Node JS, MongoDB, Express, COR
 
 ### `npm install`
 
-#### Begin Running Docker
+#### 2. Begin Running Docker
 
 In terminal, run the following command:
 
 ### `docker run -p 27017:27017 --name badbank -d mongo`
 
-Once Docker is running, check that it's working by navigating to
+Once Docker is running, check that it's working, open [http://localhost:27017](http://localhost:27017) to view in your browser. 
 
-### [http://localhost:27017](http://localhost:27017)
+#### 3. Run the application 
+
+In terminal, run the following command to launch the server and application: 
 
 ### `node index.js`
 
