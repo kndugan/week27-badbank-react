@@ -5,7 +5,7 @@
 In this project, I've created a MERN Banking Application. Users can create accounts, make deposits, withdrawls, and check balances. 
 ![4 localhost 3000](https://user-images.githubusercontent.com/94763837/187096492-2d49d3d2-a03c-4494-a7d8-c47b75ddea28.png)
 
-All user data will be created and stored in a database within the backend of the application with [MongoDB](https://www.mongodb.com/). The front end was created with [React](https://github.com/facebook/create-react-app).  The frontend and backend are connected via [NodeJS](https://nodejs.org/en/) and [Express](http://expressjs.com/). 
+The front end was created with [React](https://github.com/facebook/create-react-app). All user data will be created and stored in a database within the backend of the application with [MongoDB](https://www.mongodb.com/). The frontend and backend are connected via a server wtih [Express](http://expressjs.com/) and [NodeJS](https://nodejs.org/en/). 
 
 All user data can be viewed under the AllData tab in the navigation bar. 
 ![5 all data](https://user-images.githubusercontent.com/94763837/187096498-7ea2d552-e28f-4ccb-94bf-afbc34610343.png)
